@@ -10,24 +10,24 @@ Then unzip the project file to your local computer. Open terminal to the folder 
 
 
 ### 2. Install Webpack server
-    ```
+
     npm install webpack-dev-server -g
-    ```
+
 
 ### 3. Build the webpack using
-    ```
+
     npm run build
-    ```
+
 
 ### 4. Open new terminal and start the webpack-dev-server
-    ```
+
     npm start
-    ```
+
 
 ### 5. Open the page in you browser, for instance if your application starts on port 5000
-    ```
+
     http://localhost:5000
-    ```
+
 
 /*Packages used */
 		We used the following libs for developement:
