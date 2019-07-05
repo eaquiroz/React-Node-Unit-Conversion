@@ -1,8 +1,5 @@
 # React/Node Unit Conversion App
-First download file and rename the it from: 
-	"unit-conversion.ziX" -> "unit-conversion.ziP"
-
-Then unzip the project file to your local computer. Open terminal to the folder and follow the commands below.
+Open terminal to the folder where you downloaded the code and follow the commands below.
 
 ### 1. Install the node_modules with command
 
