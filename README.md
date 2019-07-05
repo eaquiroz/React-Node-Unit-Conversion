@@ -5,9 +5,9 @@ First download file and rename the it from:
 Then unzip the project file to your local computer. Open terminal to the folder and follow the commands below.
 
 ### 1. Install the node_modules with command
-    ```
+
     npm install
-    ```
+
 
 ### 2. Install Webpack server
     ```
